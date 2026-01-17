@@ -53,22 +53,24 @@ Cada tipo de frete possui sua própria lógica encapsulada em uma classe que imp
 pattern-strategy-calculo-frete
 │
 ├── CalculoFrete.Dominio
-│   ├── Contratos
+│   └── Interfaces
 │   ├── Modelos
 │   └── Tipos
 │
 ├── CalculoFrete.Aplicacao
 │   └── Servicos
+│   └── Interfaces
 │
 ├── CalculoFrete.Infra
 │   └── Estrategias
+│   └── Interfaces
 │
 ├── CalculoFrete.ConsoleApp
 │   └── UI
 │
 ├── CalculoFrete.Testes
-│   ├── Dublês
-│   └── Testes de Comportamento
+
+│   └── Testes 
 │
 └── pattern-strategy-calculo-frete.sln
 ```
