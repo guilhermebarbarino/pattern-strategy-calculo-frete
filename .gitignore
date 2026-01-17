@@ -1,0 +1,17 @@
+@"
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Testes
+TestResults/
+
+# VS Code / Rider
+.vscode/
+.idea/
+"@ | Out-File -Encoding UTF8 .gitignore

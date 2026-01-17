@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFrete.Dominio", "CalculoFrete.Dominio\CalculoFrete.Dominio.csproj", "{5B41FAF4-8FDA-4BC0-8477-FD7BD63EB087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFrete.Aplicacao", "CalculoFrete.Aplicacao\CalculoFrete.Aplicacao.csproj", "{F8F78ABB-9F75-4F07-BB9F-5B0FB26C5330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFrete.Infra", "CalculoFrete.Infra\CalculoFrete.Infra.csproj", "{B38CEC09-FB31-45DE-B641-DE428026A1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFrete.ConsoleApp", "CalculoFrete.ConsoleApp\CalculoFrete.ConsoleApp.csproj", "{B304A1D5-D595-4F47-8CB4-D7A26C00F17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoFrete.Testes", "CalculoFrete.Testes\CalculoFrete.Testes.csproj", "{C6211AF4-DFC7-498E-9788-266680FAB4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B41FAF4-8FDA-4BC0-8477-FD7BD63EB087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B41FAF4-8FDA-4BC0-8477-FD7BD63EB087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B41FAF4-8FDA-4BC0-8477-FD7BD63EB087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B41FAF4-8FDA-4BC0-8477-FD7BD63EB087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F78ABB-9F75-4F07-BB9F-5B0FB26C5330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F78ABB-9F75-4F07-BB9F-5B0FB26C5330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F78ABB-9F75-4F07-BB9F-5B0FB26C5330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F78ABB-9F75-4F07-BB9F-5B0FB26C5330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38CEC09-FB31-45DE-B641-DE428026A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38CEC09-FB31-45DE-B641-DE428026A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38CEC09-FB31-45DE-B641-DE428026A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38CEC09-FB31-45DE-B641-DE428026A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B304A1D5-D595-4F47-8CB4-D7A26C00F17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304A1D5-D595-4F47-8CB4-D7A26C00F17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304A1D5-D595-4F47-8CB4-D7A26C00F17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304A1D5-D595-4F47-8CB4-D7A26C00F17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6211AF4-DFC7-498E-9788-266680FAB4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6211AF4-DFC7-498E-9788-266680FAB4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6211AF4-DFC7-498E-9788-266680FAB4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6211AF4-DFC7-498E-9788-266680FAB4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
