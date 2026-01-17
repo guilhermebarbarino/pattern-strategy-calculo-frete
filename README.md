@@ -94,8 +94,7 @@ Interface de linha de comando.
 Responsável apenas pela interação com o usuário.
 
 ### Testes
-Testes unitários focados em **comportamento**, utilizando dublês (fakes) para isolar o domínio.
-
+Testes unitários focados em **comportamento**.
 ---
 
 ## 🔍 Onde o Strategy é aplicado
